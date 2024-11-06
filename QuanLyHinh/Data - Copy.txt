@@ -1,0 +1,20 @@
+﻿1|T|Nhựa|5
+2|HCN|Gỗ|4|6
+3|T|Kim loại|7
+4|HCN|Nhựa|3|8
+5|T|Thép|10
+6|HCN|Gỗ|5|12
+7|T|Nhựa|8
+8|HCN|Kim loại|6|4
+9|T|Thủy tinh|3
+10|HCN|Nhựa|7|5
+11|T|Kim loại|4
+12|HCN|Gỗ|2|9
+13|T|Nhựa|6
+14|HCN|Thép|10|10
+15|T|Gỗ|9
+16|HCN|Thủy tinh|8|3
+17|T|Nhựa|11
+18|HCN|Kim loại|5|7
+19|T|Gỗ|12
+20|HCN|Nhựa|4|6
